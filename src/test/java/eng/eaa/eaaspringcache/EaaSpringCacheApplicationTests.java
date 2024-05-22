@@ -1,10 +1,10 @@
-package eng.eaa.eaaspringredis;
+package eng.eaa.eaaspringcache;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EaaSpringRedisApplicationTests {
+class EaaSpringCacheApplicationTests {
 
 	@Test
 	void contextLoads() {

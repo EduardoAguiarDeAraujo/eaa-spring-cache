@@ -1,6 +1,6 @@
-package eng.eaa.eaaspringredis;
+package eng.eaa.eaaspringcache;
 
-import eng.eaa.eaaspringredis.service.ProductService;
+import eng.eaa.eaaspringcache.service.ProductService;
 import org.springframework.boot.ApplicationRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

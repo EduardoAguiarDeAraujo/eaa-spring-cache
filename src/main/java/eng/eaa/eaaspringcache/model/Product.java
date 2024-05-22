@@ -1,4 +1,4 @@
-package eng.eaa.eaaspringredis.model;
+package eng.eaa.eaaspringcache.model;
 
 import java.io.Serializable;
 

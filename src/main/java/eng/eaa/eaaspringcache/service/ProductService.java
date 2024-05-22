@@ -1,6 +1,6 @@
-package eng.eaa.eaaspringredis.service;
+package eng.eaa.eaaspringcache.service;
 
-import eng.eaa.eaaspringredis.model.Product;
+import eng.eaa.eaaspringcache.model.Product;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;
 
